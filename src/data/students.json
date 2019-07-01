@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "img": "https://i.ibb.co/L0RhrYn/student-Girl.png",
+        "name" : "Maria Fernada Gutierrez",
+        "Skills":["React", "Node", "Angular", "Vue"]
+    },
+
+
+    {
+        "id": "2",
+        "img": "https://i.ibb.co/L0RhrYn/student-Girl.png",
+        "name" : "Beatriz Ana Morales",
+        "Skills":["React", "Node", "Angular", "Vue"]
+    },
+
+    {
+        "id": "3",
+        "img": "https://i.ibb.co/L0RhrYn/student-Girl.png",
+        "name" : "Maria Fernana Gutierrez",
+        "Skills":["React", "Node", "Angular", "Vue"]
+    },
+
+    {
+        "id": "4",
+        "img": "https://i.ibb.co/L0RhrYn/student-Girl.png",
+        "name" : "Maria Fernana Gutierrez",
+        "Skills":["React", "Node", "Angular", "Vue"]
+    },
+
+    {
+        "id": "5",
+        "img": "https://i.ibb.co/L0RhrYn/student-Girl.png",
+        "name" : "Maria Fernana Gutierrez",
+        "Skills":["React", "Node", "Angular", "Vue"]
+    },
+
+    {
+        "id": "6",
+        "img": "https://i.ibb.co/L0RhrYn/student-Girl.png",
+        "name" : "Maria Fernana Gutierrez",
+        "Skills":["React", "Node", "Angular", "Vue"]
+    },
+
+    {
+        "id": "7",
+        "img": "https://i.ibb.co/L0RhrYn/student-Girl.png",
+        "name" : "Maria Fernana Gutierrez",
+        "Skills":["React", "Node", "Angular", "Vue"]
+    },
+
+    {
+        "id": "8",
+        "img": "https://i.ibb.co/L0RhrYn/student-Girl.png",
+        "name" : "Maria Fernana Gutierrez",
+        "Skills":["React", "Node", "Angular", "Vue"]
+    },
+
+    {
+        "id": "9",
+        "img": "https://i.ibb.co/L0RhrYn/student-Girl.png",
+        "name" : "Maria Fernana Gutierrez",
+        "Skills":["React", "Node", "Angular", "Vue"]
+    },
+
+    {
+        "id": "10",
+        "img": "https://i.ibb.co/L0RhrYn/student-Girl.png",
+        "name" : "Maria Fernana Gutierrez",
+        "Skills":["React", "Node", "Angular", "Vue"]
+    }
+]
